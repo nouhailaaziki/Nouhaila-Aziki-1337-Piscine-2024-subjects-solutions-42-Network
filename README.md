@@ -46,8 +46,8 @@ __Start Exam__: In the terminal, type examshell to begin.
 
 ## Week 4: C09
 Prioritize Previous Content: Avoid Rush02, BSQ, and C10; concentrate on achieving 100% in previous tasks and prepare thoroughly for the final exam.
-For more tips, visit 42 Piscine Tips.
-
+For more tips, visit [42 Piscine Tips.
+](https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-training/)
 > Trust in God + work hard + be patient = SUCCESS
 
 > _**N**ever **O**verlook **U**nique **H**urdles, **A**im **I**ntently, **L**earn **A**lways._
