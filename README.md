@@ -24,7 +24,7 @@ __Start Exam__: In the terminal, type examshell to begin.
 
 **Final Exam**: Focus on Makefiles, Libraries, Header Files, and Function Pointers.
 
-**_Note_**: You need more than 25 points to pass the first three exams, more than 30 points to pass the final exam, and 50 points for most days. (except for Rush, BSQ, C09, and C10, which require 100%).
+**_Note_**: You need more than 30 points to pass any exam, and 50 points for most days. (except for Rush, BSQ, C09, and C10, which require 100%).
 
 # Piscine Weekly Tips
 
